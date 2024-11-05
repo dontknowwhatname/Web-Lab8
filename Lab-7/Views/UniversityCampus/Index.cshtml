@@ -1,0 +1,31 @@
+@model IEnumerable<Lab_7.Models.UniversityCampus>
+
+<h2>Campus List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Student Count</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var campus in Model)
+        {
+            <tr>
+                <td>@campus.ID</td>
+                <td>@campus.Name</td>
+                <td>@campus.Students.Count()</td>
+                <td>
+                    @Html.ActionLink("View", "Details", new { id = campus.ID }) |
+                    @Html.ActionLink("Edit", "Edit", new { id = campus.ID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = campus.ID })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@Html.ActionLink("Add New Campus", "Create")

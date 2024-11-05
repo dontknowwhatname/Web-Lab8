@@ -1,0 +1,49 @@
+@model Lab_7.Models.SearchStudentViewModel
+
+
+@{
+    ViewBag.Title = "Student Search";
+}
+
+<h2>Student Search</h2>
+
+<form method="get">
+    <div>
+        <label for="studentName">Student Name:</label>
+        <input type="text" id="studentName" name="studentName" value="@Model.StudentName" />
+    </div>
+    <div>
+        <label for="campusID">Select Campus:</label>
+        <select id="campusID" name="campusID">
+            <option value="">--Select--</option>
+            @foreach (var campus in Model.Campuses)
+            {
+                <option value="@campus.ID" @(campus.ID == Model.CampusID ? "selected" : "")>@campus.Name</option>
+            }
+        </select>
+    </div>
+    <button type="submit">Search</button>
+</form>
+
+<h3>Student List:</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Address</th>
+            <th>Campus</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model.Students)
+        {
+            <tr>
+                <td>@student.ID</td>
+                <td>@student.Name</td>
+                <td>@student.Address</td>
+                <td>@student.Campus.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>

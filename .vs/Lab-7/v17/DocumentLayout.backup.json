@@ -1,0 +1,535 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lab7\\Lab-7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|d:\\lab7\\lab-7\\lab-7\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\models\\searchstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\models\\searchstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\controllers\\universitycampuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\controllers\\universitycampuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\views\\universitycampus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\views\\universitycampus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\models\\universitycampus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\models\\universitycampus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\views\\universitycampus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\views\\universitycampus\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\views\\universitycampus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\views\\universitycampus\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\views\\universitycampus\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\views\\universitycampus\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\views\\universitycampus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\views\\universitycampus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\content\\bootstrap-grid.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\scripts\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\scripts\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\scripts\\modernizr-2.8.3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\scripts\\modernizr-2.8.3.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\scripts\\bootstrap.bundle.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\scripts\\bootstrap.bundle.js.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\scripts\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\scripts\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\scripts\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\scripts\\bootstrap.bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|D:\\Lab7\\Lab-7\\lab-7\\migrations\\202410291247410_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B542AD20-01B2-4731-A2D4-43A743964B5C}|Lab-7\\Lab-7.csproj|solutionrelative:lab-7\\migrations\\202410291247410_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchStudentViewModel.cs",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Models\\SearchStudentViewModel.cs",
+              "RelativeDocumentMoniker": "Lab-7\\Models\\SearchStudentViewModel.cs",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Models\\SearchStudentViewModel.cs",
+              "RelativeToolTip": "Lab-7\\Models\\SearchStudentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T03:49:57.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bootstrap-grid.min.css",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Content\\bootstrap-grid.min.css",
+              "RelativeDocumentMoniker": "Lab-7\\Content\\bootstrap-grid.min.css",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Content\\bootstrap-grid.min.css",
+              "RelativeToolTip": "Lab-7\\Content\\bootstrap-grid.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T00:43:37.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Content\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "Lab-7\\Content\\bootstrap-grid.css",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Content\\bootstrap-grid.css",
+              "RelativeToolTip": "Lab-7\\Content\\bootstrap-grid.css",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-30T00:43:26.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Scripts\\bootstrap.js",
+              "RelativeDocumentMoniker": "Lab-7\\Scripts\\bootstrap.js",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Scripts\\bootstrap.js",
+              "RelativeToolTip": "Lab-7\\Scripts\\bootstrap.js",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T00:43:14.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "modernizr-2.8.3.js",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Scripts\\modernizr-2.8.3.js",
+              "RelativeDocumentMoniker": "Lab-7\\Scripts\\modernizr-2.8.3.js",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Scripts\\modernizr-2.8.3.js",
+              "RelativeToolTip": "Lab-7\\Scripts\\modernizr-2.8.3.js",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-30T00:42:30.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bootstrap.bundle.js.map",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Scripts\\bootstrap.bundle.js.map",
+              "RelativeDocumentMoniker": "Lab-7\\Scripts\\bootstrap.bundle.js.map",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Scripts\\bootstrap.bundle.js.map",
+              "RelativeToolTip": "Lab-7\\Scripts\\bootstrap.bundle.js.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T00:42:26.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "bootstrap.bundle.min.js",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Scripts\\bootstrap.bundle.min.js",
+              "RelativeDocumentMoniker": "Lab-7\\Scripts\\bootstrap.bundle.min.js",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Scripts\\bootstrap.bundle.min.js",
+              "RelativeToolTip": "Lab-7\\Scripts\\bootstrap.bundle.min.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-29T16:25:55.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Scripts\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "Lab-7\\Scripts\\bootstrap.bundle.js",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Scripts\\bootstrap.bundle.js",
+              "RelativeToolTip": "Lab-7\\Scripts\\bootstrap.bundle.js",
+              "ViewState": "AgIAAGIBAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-29T16:25:43.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Lab-7\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "Lab-7\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T14:36:13.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab-7\\Views\\Student\\Details.cshtml",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "Lab-7\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T14:35:37.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab-7\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Lab-7\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T14:33:05.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\UniversityCampus\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Lab-7\\Views\\UniversityCampus\\Delete.cshtml",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\UniversityCampus\\Delete.cshtml",
+              "RelativeToolTip": "Lab-7\\Views\\UniversityCampus\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T14:14:33.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\UniversityCampus\\Details.cshtml",
+              "RelativeDocumentMoniker": "Lab-7\\Views\\UniversityCampus\\Details.cshtml",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\UniversityCampus\\Details.cshtml",
+              "RelativeToolTip": "Lab-7\\Views\\UniversityCampus\\Details.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T14:12:30.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\UniversityCampus\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Lab-7\\Views\\UniversityCampus\\Edit.cshtml",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\UniversityCampus\\Edit.cshtml",
+              "RelativeToolTip": "Lab-7\\Views\\UniversityCampus\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T14:12:02.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab-7\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab-7\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:47:49.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Lab-7\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Lab-7\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:47:47.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Lab-7\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Lab-7\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:47:41.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Lab-7\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Lab-7\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:04:28.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab-7\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Lab-7\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:01:45.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab-7\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Lab-7\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAiwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:01:26.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\UniversityCampus\\Create.cshtml",
+              "RelativeDocumentMoniker": "Lab-7\\Views\\UniversityCampus\\Create.cshtml",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\UniversityCampus\\Create.cshtml",
+              "RelativeToolTip": "Lab-7\\Views\\UniversityCampus\\Create.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:00:53.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\UniversityCampus\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab-7\\Views\\UniversityCampus\\Index.cshtml",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\UniversityCampus\\Index.cshtml",
+              "RelativeToolTip": "Lab-7\\Views\\UniversityCampus\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:00:16.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Lab-7\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Lab-7\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T12:57:24.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab-7\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Lab-7\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T12:57:12.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Lab-7\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Lab-7\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T12:56:31.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Lab-7\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Lab-7\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAqwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:54:20.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UniversityCampusController.cs",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Controllers\\UniversityCampusController.cs",
+              "RelativeDocumentMoniker": "Lab-7\\Controllers\\UniversityCampusController.cs",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Controllers\\UniversityCampusController.cs",
+              "RelativeToolTip": "Lab-7\\Controllers\\UniversityCampusController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:50:42.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "202410291247410_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Migrations\\202410291247410_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Lab-7\\Migrations\\202410291247410_InitialCreate.cs",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Migrations\\202410291247410_InitialCreate.cs",
+              "RelativeToolTip": "Lab-7\\Migrations\\202410291247410_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:47:45.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Lab-7\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Lab-7\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:47:28.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Lab-7\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Lab-7\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:43:08.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UniversityCampus.cs",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Models\\UniversityCampus.cs",
+              "RelativeDocumentMoniker": "Lab-7\\Models\\UniversityCampus.cs",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Models\\UniversityCampus.cs",
+              "RelativeToolTip": "Lab-7\\Models\\UniversityCampus.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:42:31.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Lab7\\Lab-7\\Lab-7\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Lab-7\\Models\\Student.cs",
+              "ToolTip": "D:\\Lab7\\Lab-7\\Lab-7\\Models\\Student.cs",
+              "RelativeToolTip": "Lab-7\\Models\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:41:42.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
